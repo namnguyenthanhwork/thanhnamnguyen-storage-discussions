@@ -1,0 +1,10 @@
+{
+  "origins": [
+    "https://giscus.app",
+  ],
+  "originsRegex": [
+    "https://personal-website-git-dev-namnguyenthanhwork\\.vercel\\.app",
+    "http://localhost:[0-9]+"
+  ],
+  "defaultCommentOrder": "newest"
+}
