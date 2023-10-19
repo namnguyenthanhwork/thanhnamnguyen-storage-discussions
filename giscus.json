@@ -4,6 +4,7 @@
   ],
   "originsRegex": [
     "https://personal-website-git-dev-namnguyenthanhwork\\.vercel\\.app",
+    "https://www.thanhnamnguyen.dev"
     "http://localhost:[0-9]+"
   ],
   "defaultCommentOrder": "newest"
